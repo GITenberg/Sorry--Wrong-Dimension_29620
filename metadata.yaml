@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34040'
     url: http://www.gutenberg.org/2009/agents/34040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29620#Sorry--Wrong-Dimension
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-05'
 gutenberg_type: Text
